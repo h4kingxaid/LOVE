@@ -2,7 +2,7 @@
 
 rm-rf LOVE
 
-git clone 
+git clone https://github.com/h4kingxaid/LOVE
 
 cd LOVE
 
